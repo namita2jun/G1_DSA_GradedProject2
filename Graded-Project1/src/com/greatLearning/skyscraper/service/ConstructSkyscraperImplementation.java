@@ -18,7 +18,6 @@ public class ConstructSkyscraperImplementation {
 				 // find the next highest floor availble
 				 temp --;
 			 }
-				 if (flag == 1)
 					 //proceed to the next day
 					 System.out.println();
 			 }
